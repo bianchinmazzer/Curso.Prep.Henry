@@ -1,0 +1,38 @@
+h1 {color: cornflowerblue;
+position: relative;
+top: 20px;
+left: 590px;}
+img {width: 400px;
+}
+#thirdDiv {
+    background-color: deepskyblue;
+    height: 600px;
+     width: 500px;
+     padding: 50px;
+     border: 10px outset blueviolet;
+     position: relative;
+     left: 400px;
+     top: 20px;
+    }
+#spanId {
+    position: relative;
+    left: 580;
+    top: 20px;
+    bottom: 20px;
+    color: darkblue;
+}
+h3{position: relative;
+left: 660px;
+top: 20px;
+color: mediumblue;}
+h4{position: relative;
+left: 620px;
+top: 20px;
+color: blue;}
+body{
+    background-image: url(https://image.freepik.com/foto-gratis/pan-rallado_25083-86.jpg);
+}
+a{
+    font-size: 50px;
+    color: darkblue;
+}
